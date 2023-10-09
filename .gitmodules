@@ -1,0 +1,15 @@
+[submodule "Studia"]
+	path = Studia
+	url = https://github.com/Kubl0/Studia
+[submodule "Inteligencja_obliczeniowa"]
+	path = Inteligencja_obliczeniowa
+	url = https://github.com/Kubl0/Inteligencja_obliczeniowa
+[submodule "Programowanie_obiektowe"]
+	path = Programowanie_obiektowe
+	url = https://github.com/Kubl0/Programowanie_obiektowe
+[submodule "Lab_Golang"]
+	path = Lab_Golang
+	url = https://github.com/Kubl0/Lab_Golang
+[submodule "Technologie_chmurowe"]
+	path = Technologie_chmurowe
+	url = https://github.com/Kubl0/Technologie_chmurowe
