@@ -25,3 +25,6 @@
 [submodule "Algorytmy-i-Struktury-Danych"]
 	path = Algorytmy-i-Struktury-Danych
 	url = https://github.com/Kubl0/Algorytmy-i-Struktury-Danych
+[submodule "Jezyki_programowania_I"]
+	path = Jezyki_programowania_I
+	url = https://github.com/Kubl0/Jezyki_programowania_I
