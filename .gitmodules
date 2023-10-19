@@ -13,3 +13,15 @@
 [submodule "Technologie_chmurowe"]
 	path = Technologie_chmurowe
 	url = https://github.com/Kubl0/Technologie_chmurowe
+[submodule "Jezyki_programowania_II"]
+	path = Jezyki_programowania_II
+	url = https://github.com/Kubl0/Jezyki_programowania_II
+[submodule "Protokoly-Sieci-Web"]
+	path = Protokoly-Sieci-Web
+	url = https://github.com/Kubl0/Protokoly-Sieci-Web
+[submodule "Wstep-do-technologii-Web"]
+	path = Wstep-do-technologii-Web
+	url = https://github.com/Kubl0/Wstep-do-technologii-Web
+[submodule "Algorytmy-i-Struktury-Danych"]
+	path = Algorytmy-i-Struktury-Danych
+	url = https://github.com/Kubl0/Algorytmy-i-Struktury-Danych
