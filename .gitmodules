@@ -28,3 +28,9 @@
 [submodule "Jezyki_programowania_I"]
 	path = Jezyki_programowania_I
 	url = https://github.com/Kubl0/Jezyki_programowania_I
+[submodule "Programowanie_wspolbiezne"]
+	path = Programowanie_wspolbiezne
+	url = https://github.com/Kubl0/Programowanie_wspolbiezne.git
+[submodule "Optymalizacja_kombinatoryczna"]
+	path = Optymalizacja_kombinatoryczna
+	url = https://github.com/Kubl0/Optymalizacja_kombinatoryczna.git
